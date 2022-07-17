@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+.content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 24px 10px 40px;
+    background-color: #222;
+}
+
+.logo {
+    display: block;
+    margin: 0 10px 0 10px;
+}
